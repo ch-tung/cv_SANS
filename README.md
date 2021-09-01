@@ -1,5 +1,5 @@
 # cv_SANS
-Extract scattering length profile by contrast variation SANS
+Extract the intra-micellar polymer and water distributions by contrast variation SANS.
 
 Please cite:
 
