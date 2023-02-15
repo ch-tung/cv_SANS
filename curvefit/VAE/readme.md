@@ -1,2 +1,2 @@
-The trained GPR model for potential parameter prediction is avaliable upon request.
+The trained GPR model for potential parameter prediction is avaliable upon request.  
 Comment the lines after section: "Result potential parameters" if you haven't downloaded the GPR model to VAE/saved_model/
